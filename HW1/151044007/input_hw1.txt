@@ -1,0 +1,1 @@
+String size is 8. 5 character are removed.7 character are added, total size is 9.Character is not integer TL 432.4 remaining money
